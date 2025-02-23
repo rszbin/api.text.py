@@ -4,6 +4,6 @@
 
 ## Developer Setup (for now...)
 
-- create virtual environment: python -m venv env.api.text.pi
-- source env.api.text.pi/bin/activate
+- create virtual environment: python -m venv venv
+- source venv/bin/activate
 - pip install -r requirements.txt
